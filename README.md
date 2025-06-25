@@ -1,5 +1,4 @@
-# Movies
-Laravel project with user and admin roles, featuring role-based authentication and dashboards.
+
 
 Project Description
 The system ensures secure and efficient management of user privileges and access to application functionalities based on roles.
